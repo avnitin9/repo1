@@ -4,5 +4,9 @@ dsdsad
 dsadsafgsafsdafelnfanljdk kdkas adj
 sdcnksad sadasd
 6th line edited online gui git
+<<<<<<< HEAD
 7th line adding by cli
 8th dummy line
+=======
+
+>>>>>>> parent of ec73291... added 7th line cli checks
