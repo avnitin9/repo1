@@ -7,10 +7,8 @@ sdcnksad sadasd
 7th line adding by cli
 8th dummy line
 substract branch checking
-<<<<<<< HEAD
 multiple branch check from cli
-=======
 fdsjdd faa dw
 samajayvaragamana heyhey
 adding 2nd try git integrate
->>>>>>> 9218aa90c7b70f56eef978b4c596aa6242ce0cbb
+doing from bkp repo
